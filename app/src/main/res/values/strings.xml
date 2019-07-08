@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DMI Weather</string>
+    <string name="welcome">This is a new String</string>
+</resources>
