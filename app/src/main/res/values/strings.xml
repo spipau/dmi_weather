@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DMI Weather</string>
     <string name="welcome">This is a new String</string>
+    <string name="weather_search_search_hint">Search with city name here</string>
+    <string name="weather_search_search_button">Search</string>
+    <string name="weather_search_results">Results</string>
 </resources>
